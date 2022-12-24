@@ -23,7 +23,10 @@ A project to recognize the video or streaming video's lip
 | 2018 | [Lombard GRID](https://spandh.dcs.shef.ac.uk//avlombard/)[6]|Includes 54 talkers, with 100 utterances per talker (50 Lombard and 50 plain utterances| English| 
 |2015 | [TCD-TIMIT] [7]| | |
 
-
+### Related Companies
+| Name | Intros | 
+| ---- | ------ |
+| [Liopa](https://liopa.ai/) | Provide AI-based lipread technologies.|
 
 ### Reference
 
